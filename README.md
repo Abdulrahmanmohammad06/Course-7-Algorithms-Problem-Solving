@@ -1,0 +1,1 @@
+This repository contains my work from Course 7: Algorithms & Problem Solving in Dr. Mohammad Abu Hadhoud’s C++ Roadmap on Programming Advisors. It covers arrays, pointers, vectors, and problem solving, and includes a Bank System project and its extension.
