@@ -23,7 +23,7 @@ short Check1(string S1)
 	short Count = 0;
 	for (int i = 0; i < S1.length();i++) 
 	{  
-		if (S1[i] == Check(S1[i])) 
+		if ( Check(S1[i])) 
 		{
 		
 			Count++;
